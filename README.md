@@ -1,5 +1,8 @@
 # Sales-Analysis-of-a-Multi-Channel-E-commerce-Store
 
+![bg](https://user-images.githubusercontent.com/112967999/229264925-743bb41b-153d-4299-937d-1e05d0f3ad47.jpg)
+
+
 Overview:
 
 This project involves a comprehensive sales analysis of a multi-channel e-commerce store, showcasing advanced data manipulation and visualization techniques in Microsoft Excel. The dataset contains various columns such as gender, state, amount orders, channel, category, etc.
