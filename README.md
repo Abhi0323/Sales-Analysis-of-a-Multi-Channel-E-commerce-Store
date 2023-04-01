@@ -8,6 +8,8 @@ This project involves a comprehensive sales analysis of a multi-channel e-commer
 
 The objective of this comprehensive sales analysis is to gain deep insights into critical metrics such as sales by gender, order status, order by age group, top-performing channels, top-selling products, total revenue by state, and other key factors that impact the overall profitability of the business. Using advanced data visualization techniques and Excel's powerful functions, this analysis aims to identify the months with the highest sales and provide data-driven recommendations to optimize revenue generation. The analysis showcases my proficiency as a data science professional, leveraging cutting-edge tools and techniques to extract actionable insights that drive business growth and success.
 
+I have included slicers in the project, enabling users to filter and explore data by categories, months, and channels in a highly interactive and intuitive way. This feature allows users to quickly and easily analyze specific segments of the data, demonstrating my ability to create dynamic and user-friendly data analysis projects.
+
 
 Techniques Used:
 
