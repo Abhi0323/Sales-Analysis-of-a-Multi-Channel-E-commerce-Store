@@ -28,8 +28,6 @@ Maharashtra, Karnataka, and Uttar Pradesh are the top three states with the high
 
 Amazon, Myntra, and Flipkart are the most contributing channels to the store's sales.
 
-Sales data by month shows a seasonal trend with higher sales during the festive seasons ( March ).
-
 
 Conclusion:
 
