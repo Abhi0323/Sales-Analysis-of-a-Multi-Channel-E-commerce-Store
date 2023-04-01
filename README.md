@@ -12,16 +12,22 @@ The objective of this comprehensive sales analysis is to gain deep insights into
 Techniques Used:
 
 Advanced data manipulation using Excel formulas and functions, including VLOOKUP, IF, SUMIF, and more.
+
 Pivot tables to summarize and analyze data in a dynamic and interactive way.
+
 Charts and graphs to visualize findings and identify trends and patterns in the data.
 
 
 Key Findings:
 
 Women are more likely to buy compared to men, contributing to a significant portion of the revenue.
+
 Amazon is the top-performing channel, generating the highest revenue and sales.
+
 Maharashtra, Karnataka, and Uttar Pradesh are the top three states with the highest sales.
+
 Amazon, Myntra, and Flipkart are the most contributing channels to the store's sales.
+
 Sales data by month shows a seasonal trend with higher sales during the festive seasons ( March ).
 
 
