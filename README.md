@@ -1,7 +1,6 @@
 # Sales-Analysis-of-a-Multi-Channel-E-commerce-Store
 
-![bg](https://user-images.githubusercontent.com/112967999/229264925-743bb41b-153d-4299-937d-1e05d0f3ad47.jpg)
-
+![img5](https://user-images.githubusercontent.com/112967999/229264950-f75a5b09-8b08-4d24-9354-72763feee586.jpg)
 
 Overview:
 
